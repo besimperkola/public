@@ -6734,7 +6734,8 @@ sup,
 sub,
 u,
 del {
-  color: #ff1313;
+  color: #d4ded8;
+  text-shadow: 1px 1px 2px black;
 }
 
 
