@@ -6738,6 +6738,10 @@ del {
   text-shadow: 1px 1px 7px black;
 }
 
+.whyus{
+    color: #ffa500;
+    text-shadow: 0.1px 0.1px 0.1px grey;
+}
 
 .typography h1,
 .typography h2,
