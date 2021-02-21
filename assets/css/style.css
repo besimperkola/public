@@ -36,7 +36,7 @@
 
 
 .theme-bg {
-  background: #ff1313;
+  background: #ffa500;
 }
 
 
@@ -62,7 +62,7 @@
 
 
 .theme-color {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -70,26 +70,26 @@
 
 .boxed-btn {
   background: #fff;
-  color: #ff1313 !important;
+  color: #ffa500 !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Barlow Condensed", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #ff1313;
+  border: 1px solid #ffa500;
   letter-spacing: 3px;
   text-align: center;
-  color: #ff1313;
+  color: #ffa500;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 
 .boxed-btn:hover {
-  background: #ff1313;
+  background: #ffa500;
   color: #fff !important;
-  border: 1px solid #ff1313;
+  border: 1px solid #ffa500;
 }
 
 
@@ -476,7 +476,7 @@ hr {
 
 
 .btn {
-  background: #ff1313;
+  background: #ffa500;
   padding: 27px 44px;
   text-transform: uppercase;
   font-family: "Barlow Condensed", sans-serif;
@@ -578,7 +578,7 @@ a:hover {
 
 .submit-btn {
   width: 100%;
-  background: #ff1313;
+  background: #ffa500;
   padding: 19px 44px;
   color: #fff;
   cursor: pointer;
@@ -667,7 +667,7 @@ hero-btn {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #ff1313;
+  background: #ffa500;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -692,7 +692,7 @@ hero-btn {
 
 
 #scrollUp, #back-top {
-  background: #ff1313;
+  background: #ffa500;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -2467,7 +2467,7 @@ hero-btn {
   position: relative;
   border-style: solid;
   border-width: 10px;
-  border-top-color: #ff1313;
+  border-top-color: #ffa500;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -3098,7 +3098,7 @@ hero-btn {
 
 
 .theme-bg {
-  background: #ff1313;
+  background: #ffa500;
 }
 
 
@@ -3124,7 +3124,7 @@ hero-btn {
 
 
 .theme-color {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -3221,7 +3221,7 @@ hero-btn {
   font-weight: 400;
   padding: 39px 19px;
   display: block;
-  font-size: 16px;
+  font-size: 25px;
   font-family: "Barlow Condensed", sans-serif;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -3240,7 +3240,7 @@ hero-btn {
 
 
 .header-area .menu-wrapper .main-menu ul li:hover > a {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -3277,13 +3277,13 @@ hero-btn {
 
 .header-area .menu-wrapper .main-menu ul ul.submenu > li > a {
   padding: 6px 10px !important;
-  font-size: 16px;
+  font-size: 21px;
   color: #fdfdfd;
 }
 
 
 .header-area .menu-wrapper .main-menu ul ul.submenu > li > a:hover {
-  color: #ff1313;
+  color: #ffa500;
   background: none;
   padding-left: 13px !important;
 }
@@ -3340,7 +3340,7 @@ hero-btn {
 
 
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #ff1313 !important;
+  background-color: #ffa500 !important;
 }
 
 
@@ -3352,7 +3352,7 @@ hero-btn {
 
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -3577,7 +3577,7 @@ hero-btn {
 
 
 .video-icon a {
-  background: #ff1313;
+  background: #ffa500;
   color: #fff;
   width: 80px;
   height: 80px;
@@ -3622,7 +3622,7 @@ hero-btn {
   bottom: -2px;
   right: -2px;
   border-radius: inherit;
-  border: 1px solid #ff1313;
+  border: 1px solid #ffa500;
   -webkit-animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both infinite;
   animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both infinite;
 }
@@ -3651,7 +3651,7 @@ hero-btn {
 
 .video-icon a.btn-icon:hover {
   background: #fff;
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -3831,7 +3831,7 @@ hero-btn {
 
 
 .services-area .single-services .services-caption h3 a:hover {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -3844,7 +3844,7 @@ hero-btn {
   left: -46px;
   top: 50%;
   transform: translateY(-50%);
-  background: #ff1313;
+  background: #ffa500;
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
   -ms-transition: all 0.4s ease-out 0s;
@@ -3890,7 +3890,7 @@ hero-btn {
 
 
 .services-area .single-services:hover .services-caption {
-  background: #ff1313;
+  background: #ffa500;
   transform: translateY(-40px);
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
@@ -3931,7 +3931,7 @@ hero-btn {
 
 
 .wantToWork-area {
-  background: #ff0000;
+  background: #ffa500;
 }
 
 
@@ -4115,7 +4115,7 @@ hero-btn {
 
 .gallery-area .single-gallery .thumb-content-box .thumb-content a {
   color: #fff;
-  background: #ff0000;
+  background: #ffa500;
   width: 40px;
   height: 40px;
   display: block;
@@ -4128,7 +4128,7 @@ hero-btn {
 
 .gallery-area .single-gallery .thumb-content-box .thumb-content a:hover {
   background: #fff;
-  color: #ff0000;
+  color: #ffa500;
 }
 
 
@@ -4171,7 +4171,7 @@ hero-btn {
   left: -47px;
   top: 50%;
   transform: translateY(-50%);
-  background: #ff1313;
+  background: #ffa500;
 }
 
 
@@ -4265,7 +4265,7 @@ hero-btn {
 
 
 .testimonial-area .testimonial-caption .testimonial-founder .founder-img span {
-  color: #ff0000;
+  color: ffa500;
   font-size: 18px;
   line-height: 1;
   display: block;
@@ -4336,7 +4336,7 @@ hero-btn {
   color: #fff;
   opacity: 0;
   visibility: hidden;
-  background: #ff1313;
+  background: #ffa500;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -4423,7 +4423,7 @@ hero-btn {
 
 
 .footer-area .footer-top .single-footer-caption .footer-number h4 {
-  color: #ff1313;
+  color: #ffa500;
   font-size: 30px;
   font-weight: 500;
   text-transform: capitalize;
@@ -4499,7 +4499,7 @@ hero-btn {
 
 
 .footer-area .footer-top .single-footer-caption .footer-tittle ul li a:hover {
-  color: #ff1313;
+  color: #ffa500;
   padding-left: 5px;
 }
 
@@ -4510,7 +4510,7 @@ hero-btn {
 
 
 .footer-area .footer-top .single-footer-caption .footer-cap span {
-  color: #ff1313;
+  color: #ffa500;
   font-size: 16px;
   font-weight: 300;
   margin-bottom: 10px;
@@ -4540,12 +4540,12 @@ hero-btn {
 
 
 .footer-area .footer-bottom .footer-copy-right p i {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
 .footer-area .footer-bottom .footer-copy-right p a {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -4647,7 +4647,7 @@ hero-btn {
   content: "";
   width: 75px;
   height: 3px;
-  background: #ff1313;
+  background: #ffa500;
   left: 0;
   top: 52%;
   transform: translateY(-50%);
@@ -4772,7 +4772,7 @@ hero-btn {
 
 
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4851,7 +4851,7 @@ hero-btn {
 
 
 .blog_area a:hover, .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #ff1313 0%, #ff1313 99%);
+  background: -webkit-linear-gradient(131deg, #ffa500 0%, #ffa500 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -5374,7 +5374,7 @@ hero-btn {
 
 
 .blog_details a:hover {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -5442,7 +5442,7 @@ hero-btn {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #ff1313;
+  background-color: #ffa500;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -5537,7 +5537,7 @@ hero-btn {
 
 
 .blog_right_sidebar .search_widget .input-group button {
-  background: #ff1313;
+  background: #ffa500;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -5675,7 +5675,7 @@ hero-btn {
 
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #ff1313;
+  background: #ffa500;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -5923,7 +5923,7 @@ hero-btn {
 
 
 .single-post-area .blog-author a:hover {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -6288,7 +6288,7 @@ hero-btn {
 
 
 .contact-info .media-body h3 a:hover {
-  color: #ff1313;
+  color: #ffa500;
 }
 
 
@@ -6417,7 +6417,7 @@ hero-btn {
 
 
 .contact-section .btn_2:hover {
-  background-color: #ff1313;
+  background-color: #ffa500;
 }
 
 
@@ -6871,28 +6871,28 @@ del {
 
 .genric-btn.primary {
   color: #fff;
-  background: #ff1313;
+  background: #ffa500;
   border: 1px solid transparent;
 }
 
 
 .genric-btn.primary:hover {
-  color: #ff1313;
-  border: 1px solid #ff1313;
+  color: #ffa500;
+  border: 1px solid #ffa500;
   background: #fff;
 }
 
 
 .genric-btn.primary-border {
-  color: #ff1313;
-  border: 1px solid #ff1313;
+  color: #ffa500;
+  border: 1px solid #ffa500;
   background: #fff;
 }
 
 
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #ff1313;
+  background: #ffa500;
   border: 1px solid transparent;
 }
 
@@ -7050,7 +7050,7 @@ del {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #ff1313;
+  border-left: 2px solid #ffa500;
 }
 
 
@@ -7205,7 +7205,7 @@ del {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #ff1313;
+  border: 3px solid #ffa500;
   background: #fff;
   top: 4px;
   left: 0;
@@ -7220,7 +7220,7 @@ del {
 
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #ff1313;
+  color: #ffa500;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -7235,7 +7235,7 @@ del {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #ff1313;
+  color: #ffa500;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -7250,7 +7250,7 @@ del {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #ff1313;
+  color: #ffa500;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -7333,7 +7333,7 @@ del {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #ff1313;
+  border: 1px solid #ffa500;
 }
 
 
@@ -7401,7 +7401,7 @@ del {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #ff1313;
+  background: #ffa500;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -7492,7 +7492,7 @@ del {
 
 
 .primary-switch input:checked + label:before {
-  background: #ff1313;
+  background: #ffa500;
 }
 
 
@@ -7879,13 +7879,13 @@ del {
 
 
 .default-select .nice-select .list .option.selected {
-  color: #ff1313;
+  color: #ffa500;
   background: transparent;
 }
 
 
 .default-select .nice-select .list .option:hover {
-  color: #ff1313;
+  color: #ffa500;
   background: transparent;
 }
 
@@ -7942,13 +7942,13 @@ del {
 
 
 .form-select .nice-select .list .option.selected {
-  color: #ff1313;
+  color: #ffa500;
   background: transparent;
 }
 
 
 .form-select .nice-select .list .option:hover {
-  color: #ff1313;
+  color: #ffa500;
   background: transparent;
 }
 
