@@ -10,6 +10,7 @@
       });
     });
 */
+
 /* 2. sticky And Scroll UP */
     $(window).on('scroll', function () {
       var scroll = $(window).scrollTop();
@@ -29,7 +30,6 @@
       return false;
     });
   
-
 /* 3. slick Nav */
 // mobile_menu
     var menu = $('ul#navigation');
@@ -155,7 +155,6 @@
       ]
     });
 
-
 /* 4. Testimonial Active*/
     var testimonial = $('.h1-testimonial-active');
     if(testimonial.length){
@@ -211,19 +210,14 @@
       $(this).css("background-image", "url(" + $(this).attr("data-background") + ")")
       });
 
-
 /* 10. WOW active */
     new WOW().init();
-
-
-    
+ 
 // 11. ---- Mailchimp js --------//  
     function mailChimp() {
       $('#mc_embed_signup').find('form').ajaxChimp();
     }
     mailChimp();
-
-
 
 // 12 Pop Up Img
     var popUp = $('.single_gallery_part, .img-pop-up');
@@ -239,10 +233,5 @@
     $('.popup-video').magnificPopup({
       type: 'iframe'
     });
-
-
-
-
-
 
 })(jQuery);
