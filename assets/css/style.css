@@ -8213,3 +8213,8 @@ del {
 .lightbox-gallery .item {
   padding-bottom: 30px
 }
+
+.right-dimensions-image{
+  width:100%;
+  height: auto;
+}
